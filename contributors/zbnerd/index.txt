@@ -1,13 +1,13 @@
 1:"$Sreact.fragment"
-2:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","356","static/chunks/356-275fd0d58877acdc.js","538","static/chunks/app/contributors/%5Busername%5D/page-d2f3bb1f9e90a5de.js"],""]
-3:I[1356,["619","static/chunks/619-ba102abea3e3d0e4.js","356","static/chunks/356-275fd0d58877acdc.js","538","static/chunks/app/contributors/%5Busername%5D/page-d2f3bb1f9e90a5de.js"],"Image"]
+2:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","356","static/chunks/356-275fd0d58877acdc.js","538","static/chunks/app/contributors/%5Busername%5D/page-c3c422177f6bf124.js"],""]
+3:I[1356,["619","static/chunks/619-ba102abea3e3d0e4.js","356","static/chunks/356-275fd0d58877acdc.js","538","static/chunks/app/contributors/%5Busername%5D/page-c3c422177f6bf124.js"],"Image"]
 4:I[9196,["619","static/chunks/619-ba102abea3e3d0e4.js","356","static/chunks/356-275fd0d58877acdc.js","177","static/chunks/app/layout-222c019a5450d2d8.js"],"default"]
 c:I[7150,[],""]
 :HL["/contributions/_next/static/media/1e41be92c43b3255-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/contributions/_next/static/media/7b0b24f36b1a6d0b-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/contributions/_next/static/css/e2ed2a0eee8fd56b.css","style"]
+:HL["/contributions/_next/static/css/371cbb432349cb0d.css","style"]
 :HL["/contributions/_next/static/css/7f6bd37aab40623f.css","style"]
-0:{"P":null,"b":"wGHTOXW9cuMTUrAlzZ0px","p":"/contributions","c":["","contributors","zbnerd",""],"i":false,"f":[[["",{"children":["contributors",{"children":[["username","zbnerd","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/contributions/_next/static/css/e2ed2a0eee8fd56b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ko","children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('theme');var d=t?t==='dark':window.matchMedia('(prefers-color-scheme: dark)').matches;if(d)document.documentElement.classList.add('dark');}catch(e){}})();"}}]}],["$","body",null,{"className":"__className_dc557a __variable_4936b8 bg-background text-on-surface min-h-screen flex flex-col","children":[["$","header",null,{"className":"bg-background/80 backdrop-blur-md border-b border-outline/60 py-3 sticky top-0 z-20","children":["$","div",null,{"className":"container mx-auto px-4 lg:px-6","children":["$","nav",null,{"className":"flex flex-col sm:flex-row justify-between items-center","children":[["$","$L2",null,{"href":"/","className":"font-display text-xl font-semibold tracking-tight mb-3 sm:mb-0 flex items-center","children":[["$","$L3",null,{"src":{"src":"/contributions/_next/static/media/logo.7799f1a0.png","height":256,"width":256,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAAMFBMVEX+0376oiT64Kr+3JNMaXH93Jj7v1T914/90Xn/skH43aL/9sr86b3/66f/5Jb8xWLQI6CgAAAACnRSTlOyL/7xAPn7+ust2EYa1QAAAAlwSFlzAAALEwAACxMBAJqcGAAAADtJREFUCJkVyEkSACEIALFmURRQ///bqckx+GYMtiPrRtwlcOab84CVpmoZ1pmZbVD5D4hVd5ngQgTiHzngAYrcc7kQAAAAAElFTkSuQmCC","blurWidth":8,"blurHeight":8},"alt":"OSSCA Chromium 로고","width":32,"height":32,"className":"mr-2"}],"OSSCA Chromium"]}],["$","div",null,{"className":"flex flex-wrap items-center justify-center gap-1 sm:gap-2","children":[[["$","$L2","/docs",{"href":"/docs","className":"rounded-full px-4 py-2 font-medium text-on-surface-variant transition-colors hover:bg-surface-variant hover:text-on-surface","children":"Guide"}],["$","$L2","/patches",{"href":"/patches","className":"rounded-full px-4 py-2 font-medium text-on-surface-variant transition-colors hover:bg-surface-variant hover:text-on-surface","children":"Contributions"}],["$","$L2","/contributors",{"href":"/contributors","className":"rounded-full px-4 py-2 font-medium text-on-surface-variant transition-colors hover:bg-surface-variant hover:text-on-surface","children":"Contributors"}],["$","$L2","/stats",{"href":"/stats","className":"rounded-full px-4 py-2 font-medium text-on-surface-variant transition-colors hover:bg-surface-variant hover:text-on-surface","children":"Stats"}],["$","$L2","/schedule",{"href":"/schedule","className":"rounded-full px-4 py-2 font-medium text-on-surface-variant transition-colors hover:bg-surface-variant hover:text-on-surface","children":"Schedule"}]],["$","$L4",null,{}],["$","a",null,{"href":"https://github.com/OSSCA-chromium/contributions","target":"_blank","rel":"noopener noreferrer","className":"ml-1 inline-flex items-center gap-2 rounded-full bg-primary px-5 py-2 font-medium text-on-primary transition-opacity hover:opacity-90","aria-label":"GitHub 저장소","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":"18","height":"18","viewBox":"0 0 24 24","fill":"currentColor","children":["$","path",null,{"d":"M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"}]}],"GitHub"]}]]}]]}]}]}],"$L5","$L6","$L7"]}]]}]]}],{"children":["contributors","$L8",{"children":[["username","zbnerd","d"],"$L9",{"children":["__PAGE__","$La",{},null,false]},null,false]},null,false]},null,false],"$Lb",false]],"m":"$undefined","G":["$c",[]],"s":false,"S":true}
+0:{"P":null,"b":"S4akT5cSdhqTlEae-fIsb","p":"/contributions","c":["","contributors","zbnerd",""],"i":false,"f":[[["",{"children":["contributors",{"children":[["username","zbnerd","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/contributions/_next/static/css/371cbb432349cb0d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ko","children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('theme');var d=t?t==='dark':window.matchMedia('(prefers-color-scheme: dark)').matches;if(d)document.documentElement.classList.add('dark');}catch(e){}})();"}}]}],["$","body",null,{"className":"__className_dc557a __variable_4936b8 bg-background text-on-surface min-h-screen flex flex-col","children":[["$","header",null,{"className":"bg-background/80 backdrop-blur-md border-b border-outline/60 py-3 sticky top-0 z-20","children":["$","div",null,{"className":"container mx-auto px-4 lg:px-6","children":["$","nav",null,{"className":"flex flex-col sm:flex-row justify-between items-center","children":[["$","$L2",null,{"href":"/","className":"font-display text-xl font-semibold tracking-tight mb-3 sm:mb-0 flex items-center","children":[["$","$L3",null,{"src":{"src":"/contributions/_next/static/media/logo.7799f1a0.png","height":256,"width":256,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAAMFBMVEX+0376oiT64Kr+3JNMaXH93Jj7v1T914/90Xn/skH43aL/9sr86b3/66f/5Jb8xWLQI6CgAAAACnRSTlOyL/7xAPn7+ust2EYa1QAAAAlwSFlzAAALEwAACxMBAJqcGAAAADtJREFUCJkVyEkSACEIALFmURRQ///bqckx+GYMtiPrRtwlcOab84CVpmoZ1pmZbVD5D4hVd5ngQgTiHzngAYrcc7kQAAAAAElFTkSuQmCC","blurWidth":8,"blurHeight":8},"alt":"OSSCA Chromium 로고","width":32,"height":32,"className":"mr-2"}],"OSSCA Chromium"]}],["$","div",null,{"className":"flex flex-wrap items-center justify-center gap-1 sm:gap-2","children":[[["$","$L2","/docs",{"href":"/docs","className":"rounded-full px-4 py-2 font-medium text-on-surface-variant transition-colors hover:bg-surface-variant hover:text-on-surface","children":"Guide"}],["$","$L2","/patches",{"href":"/patches","className":"rounded-full px-4 py-2 font-medium text-on-surface-variant transition-colors hover:bg-surface-variant hover:text-on-surface","children":"Contributions"}],["$","$L2","/contributors",{"href":"/contributors","className":"rounded-full px-4 py-2 font-medium text-on-surface-variant transition-colors hover:bg-surface-variant hover:text-on-surface","children":"Contributors"}],["$","$L2","/stats",{"href":"/stats","className":"rounded-full px-4 py-2 font-medium text-on-surface-variant transition-colors hover:bg-surface-variant hover:text-on-surface","children":"Stats"}],["$","$L2","/schedule",{"href":"/schedule","className":"rounded-full px-4 py-2 font-medium text-on-surface-variant transition-colors hover:bg-surface-variant hover:text-on-surface","children":"Schedule"}]],["$","$L4",null,{}],["$","a",null,{"href":"https://github.com/OSSCA-chromium/contributions","target":"_blank","rel":"noopener noreferrer","className":"ml-1 inline-flex items-center gap-2 rounded-full bg-primary px-5 py-2 font-medium text-on-primary transition-opacity hover:opacity-90","aria-label":"GitHub 저장소","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":"18","height":"18","viewBox":"0 0 24 24","fill":"currentColor","children":["$","path",null,{"d":"M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"}]}],"GitHub"]}]]}]]}]}]}],"$L5","$L6","$L7"]}]]}]]}],{"children":["contributors","$L8",{"children":[["username","zbnerd","d"],"$L9",{"children":["__PAGE__","$La",{},null,false]},null,false]},null,false]},null,false],"$Lb",false]],"m":"$undefined","G":["$c",[]],"s":false,"S":true}
 d:I[9766,[],""]
 e:I[8924,[],""]
 f:I[3195,["619","static/chunks/619-ba102abea3e3d0e4.js","356","static/chunks/356-275fd0d58877acdc.js","177","static/chunks/app/layout-222c019a5450d2d8.js"],"default"]
@@ -23,8 +23,117 @@ f:I[3195,["619","static/chunks/619-ba102abea3e3d0e4.js","356","static/chunks/356
 9:["$","$1","c",{"children":[null,["$","$Ld",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Le",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
 a:["$","$1","c",{"children":["$L10",[["$","link","0",{"rel":"stylesheet","href":"/contributions/_next/static/css/7f6bd37aab40623f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L11",null,{"children":["$L12",["$","$L13",null,{"promise":"$@14"}]]}]]}]
 b:["$","$1","h",{"children":[null,[["$","$L15",null,{"children":"$L16"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L17",null,{"children":["$","div",null,{"hidden":true,"children":["$","$18",null,{"fallback":null,"children":"$L19"}]}]}]]}]
-1a:I[7475,["619","static/chunks/619-ba102abea3e3d0e4.js","356","static/chunks/356-275fd0d58877acdc.js","538","static/chunks/app/contributors/%5Busername%5D/page-d2f3bb1f9e90a5de.js"],"default"]
-1b:T2e7b,
+1a:I[7475,["619","static/chunks/619-ba102abea3e3d0e4.js","356","static/chunks/356-275fd0d58877acdc.js","538","static/chunks/app/contributors/%5Busername%5D/page-c3c422177f6bf124.js"],"default"]
+1b:T9d0,
+Chromium의 File System Access 구현에서 사용하지 않는
+`crypto/secure_hash.h` include를 제거했습니다. 이 변경은 2026년 9월 9일
+Chromium main에 병합되었습니다.
+
+## 문제 설명
+
+`content/browser/file_system_access/file_system_access_manager_impl.cc`에는
+`crypto::SecureHash`를 사용하는 코드가 없는데도
+`crypto/secure_hash.h` include가 남아 있었습니다.
+
+이처럼 사용하지 않는 include는 불필요한 헤더 의존성을 만듭니다.
+이번 CL은 `crypto/secure_hash.h`를 제거하기 위한 정리 작업의 일부로,
+[Chromium Issue 372283556](https://issues.chromium.org/issues/372283556)과
+연결되어 있습니다.
+
+## 해결 내용
+
+`FileSystemAccessManagerImpl` 구현 파일의 include 목록에서 다음 한 줄을
+삭제했습니다.
+
+```diff
+-#include "crypto/secure_hash.h"
+```
+
+최종 패치는 한 파일에서 한 줄을 제거하는 변경입니다.
+
+## 테스트 방법
+
+CL의 커밋 메시지와 Gerrit 실행 기록에 남은 검증은 다음과 같습니다.
+
+1. `git cl presubmit --upload`로 업로드 전 presubmit 검사를 실행했습니다.
+2. 기존 `out/Default`의 빌드 옵션을 재사용한 Clang 구문 검사로 대상 파일을
+   확인했습니다.
+3. 2026년 9월 5일 Patch Set 2의
+   [CQ dry run](https://luci-change-verifier.appspot.com/ui/run/chromium/8834376993854-1-fb8169754cb00c03)이
+   통과했습니다.
+4. 2026년 9월 9일 Patch Set 3의
+   [CQ 실행](https://luci-change-verifier.appspot.com/ui/run/chromium/8834047337854-1-2a351c88fb7a8ac7)을
+   거쳐, 자동 rebase된 Patch Set 4가 main에 병합되었습니다.
+
+## 배운 점
+
+- 오래된 API를 정리할 때는 실제 사용 코드를 이전하는 작업뿐 아니라,
+  사용하지 않는 include를 제거하는 작업도 필요합니다.
+- include를 제거할 때는 해당 파일의 심볼 사용 여부를 확인하고,
+  구문 검사와 CQ로 변경을 검증할 수 있습니다.
+- 기존 빌드 설정을 재사용하면 대상 파일에 맞는 옵션으로 구문 검사를
+  수행할 수 있습니다.
+
+## 참고 자료
+
+- [Chromium Gerrit CL 8362029](https://chromium-review.googlesource.com/c/chromium/src/+/8362029)
+- [최종 Patch Set 4](https://chromium-review.googlesource.com/c/chromium/src/+/8362029/4)
+- [Chromium Issue 372283556](https://issues.chromium.org/issues/372283556)
+- [Chromium main에 반영된 커밋](https://chromium.googlesource.com/chromium/src/+/99fcf5924f9963fa285fba294a0354eaf9d43390)
+1c:T1311,
+`showSaveFilePicker()`에서 파일 생성이나 truncate가 실패했을 때 원래 파일 시스템 오류를 보존하도록 수정했습니다. 웹사이트가 쓰기 권한 부족이나 부모 디렉터리 부재를 사용자 취소와 구분할 수 있도록 개선했습니다.
+
+## 문제 설명
+
+저장 파일 선택기는 파일 핸들을 반환하기 전에 선택한 파일을 생성하거나 기존 파일의 길이를 0으로 줄입니다. 기존 구현은 이 작업의 결과를 `bool`로 전달해 실패 원인을 잃어버렸습니다.
+
+- 쓰기 권한 부족이나 부모 디렉터리 부재도 일반적인 `AbortError`로 전달됐습니다.
+- 사용자가 대화상자를 취소한 경우에도 `AbortError`가 발생하므로, 웹사이트가 취소와 파일 시스템 실패를 구분하기 어려웠습니다.
+- POSIX 로컬 파일 처리 경로와 storage backend 경로 모두에서 오류 정보를 유지해야 했습니다.
+
+## 해결 내용
+
+1. POSIX 로컬 파일 헬퍼 `CreateAndTruncateLocalFile()`의 반환형을 `bool`에서 `base::File::Error`로 변경했습니다. `open()`, `fstat()`, `SetLength()` 실패 시 오류를 반환하고, 일반 파일이 아닌 경우에는 `FILE_ERROR_NOT_A_FILE`을 반환하도록 했습니다.
+2. `CreateAndTruncateFile()`과 `DidCreateFileToTruncate()`의 비동기 콜백도 `base::File::Error`를 전달하도록 변경해 backend가 반환한 오류를 보존했습니다.
+3. `DidCreateAndTruncateSaveFile()`에서 일반적인 실패 상태 대신 기존 `file_system_access_error::FromFileError()` 매핑을 사용하도록 수정했습니다.
+
+```cpp
+if (result != base::File::FILE_OK) {
+  std::move(callback).Run(file_system_access_error::FromFileError(result),
+                          std::move(result_entries));
+  return;
+}
+```
+
+쓰기 접근이 거부되면 `NoModificationAllowedError`, 부모 디렉터리가 없으면 `NotFoundError`를 전달합니다. 사용자가 선택을 취소하면 기존처럼 `AbortError`를 전달합니다.
+
+외부 경로의 `NativeFileUtil`은 `SetLength()` 실패를 여전히 `FILE_ERROR_FAILED`로 반환합니다. 이번 변경은 backend가 제공하는 오류를 보존하며, 해당 backend 내부의 오류 세분화까지 변경하지는 않았습니다.
+
+## 테스트 방법
+
+다음 회귀 테스트를 추가했습니다.
+
+- `FileSystemAccessManagerImplSaveFileTest`를 로컬·외부 경로로 매개변수화해 `ReadOnlyFile`, `MissingParentDirectory`, `TruncateFailure`를 검증합니다. 실패 시 오류 코드와 빈 결과 목록을 확인하고, 기존 파일의 내용이 보존되는지도 확인합니다.
+- Linux·ChromeOS의 `TruncateFailure`는 Landlock으로 truncate만 제한합니다. 파일 열기와 `fstat()`이 성공하는지 먼저 확인해 `SetLength()` 실패 경로를 실제로 거치도록 구성했습니다. 제한을 해제할 수 없는 Landlock의 특성을 고려해 전용 파일 스레드에만 적용하며, 필요한 기능을 지원하지 않는 환경에서는 건너뜁니다.
+- `FileSystemChooserBrowserTest`에 `SaveFile_CancelDialog`, `SaveFile_ReadOnlyFile`, `SaveFile_MissingParentDirectory`를 추가해 JavaScript에서 관찰하는 예외 이름을 검증합니다.
+- 읽기 전용 파일 테스트는 실제 쓰기 접근이 차단되는지 먼저 확인합니다. Windows에서는 권한을 복원한 뒤 기존 파일의 내용을 확인하도록 했습니다.
+
+Gerrit에서 Alex Moshchuk과 Rakina Zata Amni의 리뷰를 받았고, Amos Lim의 Commit Queue 제출 후 2026-09-11에 Chromium main에 병합됐습니다. 최종 커밋 위치는 `refs/heads/main@{#1696213}`입니다.
+
+## 배운 점
+
+- 하위 계층의 오류를 `bool`로 축약하면 상위 API에서 필요한 실패 원인을 복원할 수 없습니다. 비동기 콜백을 포함한 전체 전달 경로에서 오류 타입을 유지해야 합니다.
+- 내부 오류 코드 확인과 JavaScript에서 관찰하는 예외 확인을 함께 구성하면, 구현 계층과 사용자에게 보이는 API 동작을 연결해 검증할 수 있습니다.
+- truncate 실패를 테스트하려면 앞선 파일 열기 단계에서 실패하지 않는 조건을 만들어야 합니다. Landlock으로 특정 연산만 제한하면 목표한 실패 경로를 검증할 수 있습니다.
+- 파일 권한과 backend의 오류 표현은 플랫폼마다 다르므로, 테스트의 전제 조건과 지원 범위를 명시하고 기존 데이터 보존까지 확인해야 합니다.
+
+## 참고 자료
+
+- [Chromium CL 8362049](https://crrev.com/c/8362049)
+- [Chromium Issue 40717501](https://crbug.com/40717501)
+- [OSSCA 관련 이슈 #393](https://github.com/OSSCA-chromium/contributions/issues/393)
+- [최종 머지 코드와 회귀 테스트](https://chromium.googlesource.com/chromium/src/+/81f37f998a79eddb8ef7243169b2f547e48baa7f)
+1d:T2e7b,
 Blink의 `FileReader`가 `abort`, `load`, `error` 이벤트 핸들러에서 같은
 객체로 새 읽기를 시작했을 때 이전 읽기의 `loadend`를 잘못 발생시키던 문제를
 수정했습니다. terminal event를 dispatch한 뒤 `FileReader`가 다시
@@ -275,7 +384,339 @@ label이 제거되어 upstream 반영 절차로 이어졌습니다.
 - [File API — FileReader read operation과 abort](https://w3c.github.io/FileAPI/#APIASynch)
 - [WPT export PR #62349](https://github.com/web-platform-tests/wpt/pull/62349)
 - [기존 Chromium Issue 1204139](https://issues.chromium.org/issues/1204139)
-1c:T32b2,
+1e:T248a,
+IndexedDB의 LevelDB 백엔드에서 레코드 버전을 트랜잭션별로 캐시해,
+연속 쓰기 중 메타데이터 조회가 유발하는 flush를 줄이는 변경을 제안했습니다.
+리뷰에서 해당 백엔드가 deprecated 상태여서 비핵심 개선을 받지 않는다는
+방침을 확인했고, 이를 수용해 2026년 9월 2일 CL을 중단했습니다.
+이번 기여에서는 구현 내용과 함께, 리뷰를 통해 배운 작업 대상 선정 기준을
+중심으로 정리합니다.
+
+## 문제 설명
+
+[CL 설명](https://chromium-review.googlesource.com/c/chromium/src/+/8338807/2)은
+`PutRecord()`마다 `LAST_VERSION`을 읽으면서 대기 중인 LevelDB 쓰기와
+undo log를 flush하는 문제를 다룹니다. 관련 이슈는 커밋 메시지에 연결된
+[Chromium Issue 41460075](https://issues.chromium.org/issues/41460075)입니다.
+
+기존 `GetNewVersionNumber()`는 레코드를 쓸 때마다 object store의 마지막
+버전을 `GetInt()`로 읽고, 1을 더한 값을 다시 기록했습니다.
+이 읽기가 사용하는
+[`TransactionalLevelDBTransaction::Get()`](https://chromium.googlesource.com/chromium/src/+/f3601a9e090fb4f78823e87afe02f626cfa7f9a8/components/services/storage/indexed_db/transactional_leveldb/transactional_leveldb_transaction.cc#67)은
+실제 조회 전에 `WriteChangesAndUndoLog()`를 호출합니다. 따라서 같은
+트랜잭션에서 레코드를 연속으로 써도 버전 조회 때문에 이전 쓰기를 반복해서
+내보낼 수 있었습니다.
+
+이 내부 flush와 트랜잭션의 논리적 커밋은 서로 다른 단계입니다. 이번 CL은
+버전 조회로 발생하는 불필요한 내부 쓰기를 줄이려는 최적화였습니다.
+
+## 해결 내용
+
+### 1. 트랜잭션별 버전 캐시 제안
+
+병합되지 않은 최종 Patch Set 2에는 다음 변경을 구현했습니다.
+
+1. `BackingStore::Transaction`에 object store ID와 마지막 버전을 저장하는
+   `object_store_last_version_numbers_` 맵을 추가했습니다.
+2. `GetNewVersionNumber()`를 트랜잭션의 private 메서드로 옮겼습니다.
+   캐시에 값이 없을 때만 기존 메타데이터를 읽고, 이후에는 캐시에서 버전을
+   가져오도록 했습니다.
+3. 새 버전은 기존처럼 `PutInt()`로 기록하되, 기록 요청이 성공한 뒤 캐시도
+   갱신했습니다. 반복적인 메타데이터 읽기를 생략해 쓰기를 버퍼에 유지하려는
+   접근입니다.
+4. 같은 트랜잭션에서 새 object store를 만들면 초기 버전인 `1`을 캐시에
+   넣었습니다. 첫 레코드를 쓸 때도 이미 알고 있는 초기값을 다시 읽지 않게
+   했습니다.
+5. 공용 LevelDB operations 파일에서 기존 helper의 선언과 구현을 제거하고,
+   `PutRecord()`가 새 메서드를 호출하도록 바꿨습니다.
+
+변경은 `content/browser/indexed_db/instance/leveldb/` 아래의 구현·헤더·테스트
+5개 파일에 한정되며, 총 83줄 추가와 48줄 삭제입니다. Patch Set 2는
+커밋 메시지를 수정한 것으로, Patch Set 1과 코드 변경은 동일합니다.
+
+### 2. 핵심 리뷰: deprecated 백엔드의 변경 수용 범위
+
+2026년 9월 2일 Evan Stade는
+[Patch Set 2의 리뷰 코멘트](https://chromium-review.googlesource.com/c/chromium/src/+/8338807/comments/aface897_0094e526)에서
+다음과 같이 설명했습니다.
+
+> we are not really accepting non-critical improvements for IndexedDB's LevelDB backend as it's deprecated.
+
+IndexedDB의 LevelDB 백엔드가 deprecated 상태이므로, 그 백엔드에 대한
+비핵심 개선은 받지 않는다는 의미입니다. 이 코멘트는 작업 대상의 유지보수
+단계와 변경의 필요성을 먼저 확인하게 했습니다.
+
+이번 제안은 레코드 버전 조회를 줄이는 최적화였고, 리뷰어는 이 백엔드에서
+그러한 개선을 받아들이는 범위가 제한되어 있음을 알려줬습니다. 공개된
+리뷰에는 캐시 구현의 특정 결함이나 테스트 실패를 지적한 내용은 없습니다.
+따라서 중단 사유는 **deprecated 백엔드에 대한 비핵심 개선이라는 점**으로
+기록하는 것이 정확합니다.
+
+이 피드백을 통해, 구현 가능한 개선점을 찾은 다음에는 해당 코드가 현재도
+적극적으로 개선하는 대상인지 확인해야 한다는 점을 배웠습니다. 오래된
+이슈와 수정 가능한 코드가 남아 있다는 사실만으로 현재의 기여 우선순위까지
+알 수는 없습니다. 작업을 시작하기 전에 최근 리뷰와 담당자의 방침을
+확인해야 합니다.
+
+또한 코멘트의 범위는 IndexedDB의 LevelDB 백엔드에 대한 **non-critical
+improvements**입니다. 긴급한 수정까지 모두 거절한다는 뜻으로 확대해서
+해석할 수는 없으며, 이 코멘트만으로 예외가 되는 변경의 구체적인 기준까지
+확정할 수도 없습니다.
+
+### 3. 대응: CL 중단과 다음 이슈 선택 기준 정리
+
+리뷰를 확인한 뒤 CL을 `abandoned`로 변경했습니다.
+[후속 답변](https://chromium-review.googlesource.com/c/chromium/src/+/8338807/comments/e2f7af70_5c82f409)에서는
+이미 CL을 중단했음을 알리고, 앞으로 IndexedDB 이슈를 선택할 때 이 방침을
+고려해 deprecated LevelDB 백엔드의 비핵심 작업을 피하겠다고 답했습니다.
+
+아래 시각과 문서의 업로드 날짜는 한국 표준시(KST) 기준입니다.
+
+| 시각 | 진행 내용 |
+| --- | --- |
+| 9월 2일 04:00 | Patch Set 1 업로드 |
+| 9월 2일 04:03 | 커밋 메시지를 정리한 Patch Set 2 업로드 |
+| 9월 2일 15:15 | Evan Stade가 백엔드의 deprecated 상태와 변경 수용 방침 설명 |
+| 9월 2일 15:52 | CL 중단 |
+| 9월 2일 16:02 | 중단 사실과 향후 이슈 선택 방향을 후속 답변으로 전달 |
+
+결과적으로 이 변경은 Chromium에 병합되지 않았습니다. 리뷰의 취지를
+수용하고 다음 작업의 선정 기준을 바꾼 것이 이번 기여의 주요 결과입니다.
+
+## 테스트 방법
+
+패치에는 `leveldb_backing_store_unittest.cc`의
+`LevelDbBackingStoreTest.PutRecordsDoNotFlushBeforeCommit` 테스트를
+추가했습니다. 테스트가 검증하도록 작성된 내용은 다음과 같습니다.
+
+1. 데이터베이스와 object store를 만들고 read-write 트랜잭션을 시작합니다.
+2. 같은 object store에 `PutRecord()`로 레코드 두 개를 씁니다.
+3. 트랜잭션을 커밋하기 전에 하위 데이터베이스에서 `LAST_VERSION`을 직접
+   읽어, 저장된 값이 초기 버전 `1`인지 확인합니다.
+4. 트랜잭션을 커밋한 뒤 다시 읽어 최종 버전이 `3`인지 확인합니다.
+
+이 테스트의 검증 범위는 위 연속 쓰기 시나리오의 커밋 전후 메타데이터
+값입니다. 성능 향상률은 측정하지 않습니다.
+
+공개된 CL 설명과 메시지에는 로컬 테스트 실행 결과, CQ 통과 기록,
+성능 측정치가 없어 통과 여부나 개선 수치를 확인할 수 없습니다.
+이 기록에서는 패치에 추가된 테스트의 검증 내용까지만 설명합니다.
+
+## 배운 점
+
+- **이슈를 고를 때 백엔드의 유지보수 상태부터 확인해야 합니다.** 동일한
+  IndexedDB 영역이라도 작업 대상 구현의 deprecated 여부에 따라 변경을
+  받아들이는 기준이 달라질 수 있습니다.
+- **최적화의 구현 가능성과 프로젝트의 우선순위를 함께 판단해야 합니다.**
+  불필요한 읽기를 줄일 수 있다는 근거에 더해, 현재 그 백엔드에 변경을
+  추가할 필요가 있는지도 확인해야 합니다.
+- **짧은 리뷰에서도 적용 범위를 정확히 읽어야 합니다.** 이번 코멘트는
+  deprecated LevelDB 백엔드의 비핵심 개선에 관한 방침이었습니다.
+  구현이 틀렸다는 평가나 IndexedDB 전체에 대한 방침으로 일반화하지 않고,
+  실제로 언급된 범위에 맞춰 대응했습니다.
+- **중단 이유와 후속 행동을 함께 남기면 다음 작업에 활용할 수 있습니다.**
+  `abandoned` 상태와 함께 이유를 기록하고, 이후 이슈 선택에서 같은 종류의
+  작업을 피하겠다는 구체적인 방향을 답변에 남겼습니다.
+- **저장소의 읽기가 쓰기를 유발할 수 있습니다.** 트랜잭션 내부의
+  메타데이터 조회가 버퍼와 undo log를 flush하므로, 반복 조회를 최적화할
+  때는 하위 저장 계층의 동작까지 확인해야 합니다.
+
+## 참고 자료
+
+- [Chromium Gerrit CL 8338807](https://chromium-review.googlesource.com/c/chromium/src/+/8338807)
+- [최종 Patch Set 2](https://chromium-review.googlesource.com/c/chromium/src/+/8338807/2)
+- [Evan Stade의 리뷰 코멘트](https://chromium-review.googlesource.com/c/chromium/src/+/8338807/comments/aface897_0094e526)
+- [CL 중단 후 작성자의 답변](https://chromium-review.googlesource.com/c/chromium/src/+/8338807/comments/e2f7af70_5c82f409)
+- [커밋 메시지에 연결된 Chromium Issue 41460075](https://issues.chromium.org/issues/41460075)
+- [변경 전 트랜잭션의 Get() 구현](https://chromium.googlesource.com/chromium/src/+/f3601a9e090fb4f78823e87afe02f626cfa7f9a8/components/services/storage/indexed_db/transactional_leveldb/transactional_leveldb_transaction.cc#67)
+1f:T2f8e,
+IndexedDB 트랜잭션의 커밋 요청 이후 들어오는 IPC를 거부하고, 브라우저가
+트랜잭션을 중단한 경우와 구분하는 변경을 제안했습니다. CQ dry run은
+통과했지만, 입증된 효과에 비해 복잡성과 유지보수 비용이 크다는 리뷰를
+수용해 2026년 9월 2일 CL을 중단(`abandoned`)했습니다.
+
+## 문제 설명
+
+[Chromium Issue 40791538](https://issues.chromium.org/issues/40791538)은
+이미 커밋을 시작한 트랜잭션에 renderer가 추가 IPC를 보내면 잘못된 메시지로
+처리하는 방안을 제안했습니다. 반면 브라우저가 먼저 트랜잭션을 abort한
+경우에는 renderer가 이를 알기 전에 보낸 요청이 도착할 수 있으므로,
+해당 요청을 무시해야 한다는 조건도 있었습니다.
+
+기존 `Transaction::IsAcceptingRequests()`와
+`Connection::GetTransactionAndVerifyState()`에는 이 구분을 구현하자는
+TODO가 남아 있었습니다. 요청을 받지 않는 트랜잭션이라는 사실만으로는
+renderer의 프로토콜 위반인지, 브라우저의 abort와 경합한 정상 요청인지
+판단할 수 없었습니다.
+
+조사 중에는 비동기 저장 공간 검사와 관련된 시점 차이도 확인했습니다.
+기존 브라우저 측 `Transaction::Commit()`은 쓰기 크기 추정치가 양수이면
+`CheckCanUseDiskSpace()`로 quota를 확인하고, 성공 콜백에서
+`SetCommitFlag()`를 호출했습니다. 따라서 quota 검사가 끝나기 전에는
+커밋 요청을 받았어도 `IsAcceptingRequests()`가 계속 참일 수 있었습니다.
+
+다만 이 차이가 일반 웹 페이지에서 커밋 이후 요청을 추가할 수 있다는
+뜻은 아닙니다. [IndexedDB 명세](https://w3c.github.io/IndexedDB/#dom-idbtransaction-commit)는
+기존 요청의 완료를 허용하면서 새 요청은 받지 않도록 규정하고,
+[기존 Blink 구현](https://chromium.googlesource.com/chromium/src/+/4d6312b398a5ca37522f6b34bfb084c695f59934/third_party/blink/renderer/modules/indexeddb/idb_transaction.cc#359)은
+IPC를 보내기 전에 이미 `state_ = kCommitting`으로 전환합니다.
+[기존 WPT](https://chromium.googlesource.com/chromium/src/+/4d6312b398a5ca37522f6b34bfb084c695f59934/third_party/blink/web_tests/external/wpt/IndexedDB/idb-explicit-commit.any.js)도
+커밋 직후나 후속 요청 콜백에서 새 요청을 시도하면
+`TransactionInactiveError`가 발생하는 동작을 검증하고 있었습니다.
+남은 쟁점은 오동작하거나 손상된 renderer가 직접 보내는 IPC의 처리였고,
+이번 CL에서는 그로 인한 사용자 오류나 보안 취약점을 입증하지 못했습니다.
+
+## 해결 내용
+
+아래는 병합되지 않은 최종 Patch Set 6에 구현했던 내용입니다.
+
+### 1. 커밋 요청 수신과 실제 커밋 진행을 구분
+
+`Transaction`에 `renderer_commit_requested_`를 추가하고, 유효한
+`Commit()` 요청을 받으면 quota 검사 전에 설정했습니다.
+`IsAcceptingRequests()`는 이 값을 함께 검사해 비동기 검사 중에도
+새로운 일반 요청을 받지 않도록 했습니다.
+
+```cpp
+bool IsAcceptingRequests() const {
+  return !renderer_commit_requested_ && !is_commit_pending_ &&
+         state_ != COMMITTING && state_ != FINISHED;
+}
+```
+
+이 변경으로 `SetCommitFlag()`가 `IsAcceptingRequests()`를 그대로 사용하면
+정상적인 quota 검사 완료 후에도 커밋을 진행하지 못하게 됩니다. 따라서
+이 메서드는 abort 여부, 기존 커밋 대기 여부, `COMMITTING` 및 `FINISHED`
+상태를 직접 확인하도록 조정했습니다. 이미 큐에 들어간 작업은 계속 실행해
+커밋 요청이 기존 작업의 완료를 막지 않도록 했습니다.
+
+### 2. 커밋 이후 IPC와 abort 이후 IPC를 구분
+
+`ReportBadMessageIfRequestAfterCommit()`을 추가해
+`renderer_commit_requested_ && !aborted_`인 경우에만 bad message를
+보고하도록 했습니다.
+
+| 상황 | 제안한 처리 |
+| --- | --- |
+| 커밋 요청 이후 새 일반 요청 도착 | 요청 거부 및 bad message 보고 |
+| 브라우저의 abort 이후 요청 도착 | bad message를 보고하지 않고 무시 |
+| 커밋 요청 후 브라우저가 abort한 뒤 요청 도착 | abort와 경합한 요청으로 처리 |
+| 커밋 2단계 실패 후 `aborted_`가 설정되지 않은 상태에서 요청 도착 | 커밋 요청 수신 이력을 기준으로 bad message 보고 |
+
+이 검사를 `Transaction::Put()`, `Transaction::Commit()`,
+`Connection::GetTransactionAndVerifyState()`에 연결했습니다.
+renderer가 보내는 `Connection::Abort()`도 공통 상태 검증을 거치도록
+바꿨습니다. 보고 사유는 `BadMessageReason::kTransactionRequestAfterCommit`으로
+추가하고 UMA enum 메타데이터와 값을 맞췄습니다.
+
+### 3. 진행 중인 인덱스 생성 작업의 완료 허용
+
+트랜잭션에는 일반 요청뿐 아니라 인덱스 생성을 위한 preemptive 작업도
+있습니다. 커밋 요청 이후 모든 IPC를 막으면 이미 시작한 인덱스 생성에
+필요한 후속 메시지까지 차단할 수 있었습니다.
+
+이를 위해 `IsAcceptingPreemptiveRequests()`를 추가했습니다. 일반 요청을
+받을 수 있거나, 트랜잭션이 `STARTED`이고 대기 중인 preemptive event가
+있으면 후속 처리를 허용했습니다. 이 검사는 다음 경로에 적용했습니다.
+
+- `SetIndexKeys()`와 `SetIndexKeysDone()`
+- preemptive cursor의 `Continue()`
+
+이 예외 처리는 기존 작업을 완료시키는 데 필요했지만, 커밋 상태 검사 하나가
+인덱스 생성과 cursor 처리까지 영향을 준다는 점도 드러냈습니다.
+최종 패치는 7개 파일에서 396줄을 추가하고 29줄을 삭제했으며,
+이 중 `transaction_unittest.cc`에 추가한 코드가 334줄이었습니다.
+
+### 4. 리뷰 결과와 CL 중단
+
+[Evan Stade의 리뷰](https://chromium-review.googlesource.com/c/chromium/src/+/8319589/comments/3653ef77_e4e1859f)는
+추가된 상태와 예외 처리 때문에 코드가 복잡해지고 정확성을 검증하기
+어려워졌다고 지적했습니다. 새 단위 테스트 다수도 사용자에게 중요한
+동작보다 구현 변경 자체를 감지하는 테스트에 가깝다는 평가였습니다.
+
+또한 실제로 악용할 수 있는 보안 결함을 막는 가치와, 이미 잘못 동작하는
+renderer를 더 적극적으로 종료하는 가치를 구분해야 한다고 설명했습니다.
+악성 renderer는 감지에 사용되는 메시지를 보내지 않을 수도 있으므로,
+bad message 보고를 추가하는 것만으로 보안상 이득이 입증되지는 않습니다.
+
+[후속 답변](https://chromium-review.googlesource.com/c/chromium/src/+/8319589/comments/fc9063fa_3f4bd6c2)에서
+기존 Blink와 WPT가 웹에 노출되는 동작을 이미 다루고 있고, 남은 브라우저
+측 차이의 실제 영향은 확인하지 못했다는 점을 인정했습니다.
+quota 검사 중 mutation이 들어오는 더 좁은 문제는 영향부터 별도로
+조사할 필요가 있다고 정리하고 CL을 중단했습니다. 이 가능성을 이번 CL이
+해결한 버그나 확인된 취약점으로 결론내리지는 않았습니다.
+
+## 테스트 방법
+
+### 1. LevelDB와 SQLite 단위 테스트
+
+`content/browser/indexed_db/instance/transaction_unittest.cc`의
+`TransactionTest`에 9개 테스트를 추가했습니다. 기존 parameterized suite를
+사용하므로 LevelDB와 SQLite에서 각각 같은 시나리오를 검증하도록 했습니다.
+
+| 검증 대상 | 확인한 동작 |
+| --- | --- |
+| quota 검사 대기 중 커밋 요청 | 새 일반 요청은 받지 않고 기존 queued task는 실행 |
+| 커밋 이후 transaction IPC | `Put()` 요청에 bad message 보고 |
+| 커밋 이후 connection IPC | `Count()` 및 renderer의 `Abort()`에 bad message 보고 |
+| 브라우저 abort 이후 IPC | transaction의 `Put()`과 connection의 `Count()`를 bad message 없이 처리 |
+| 커밋 2단계 실패 | `FINISHED`이지만 `aborted_`가 거짓인 경우에도 커밋 요청 이력을 유지 |
+| 인덱스 생성 후속 처리 | quota 검사 대기 중 preemptive cursor continuation과 `SetIndexKeysDone()` 허용 |
+
+Mojo 경로의 테스트에는 `mojo::test::BadMessageObserver`를 사용해
+bad message 보고 여부를 확인했습니다. 인덱스 생성 테스트는 transaction의
+내부 상태와 preemptive event 수를 제어해야 했고, 이런 구현 의존성이
+리뷰에서 지적한 유지보수 비용과 연결됐습니다.
+
+### 2. Gerrit CQ 실행 결과
+
+[Gerrit의 CQ 기록](https://chromium-review.googlesource.com/c/chromium/src/+/8319589)에
+남은 실행 결과는 다음과 같습니다. 날짜는 한국 시간 기준입니다.
+
+- **2026년 9월 1일, Patch Set 5:** `mac-rel`의 `content_unittests`에서
+  `CommitAllowsPreemptiveCursorContinuationWhileQuotaCheckPending`가
+  LevelDB와 SQLite 모두 실패했습니다.
+- **2026년 9월 1일, Patch Set 6 첫 실행:** `ios-simulator`의
+  `ios_chrome_unittests` flakiness 검사 단계에서 테스트 결과가 생성되지 않아
+  CQ가 실패했습니다.
+- **2026년 9월 1일, Patch Set 6 재실행:**
+  [CQ dry run을 통과했습니다](https://luci-change-verifier.appspot.com/ui/run/chromium/8834736527854-1-3b57c1cf4224a604).
+- **2026년 9월 2일:** 코드 리뷰 후 CL을 중단했습니다. Chromium main에는
+  병합되지 않았습니다.
+
+위 내용은 CL에 남은 테스트 코드와 CQ 실행 기록을 정리한 것입니다.
+이 기여 기록을 작성하면서 Chromium 테스트를 새로 실행한 것은 아닙니다.
+
+## 배운 점
+
+- 오래된 TODO나 이슈의 제안이 현재도 필요한지 먼저 확인해야 합니다.
+  작업 시작 전에 담당자에게 이슈의 유효성과 기대 효과를 확인하면
+  구현 방향을 더 일찍 조율할 수 있습니다.
+- 웹 API의 상태 전이를 담당하는 Blink와 IPC를 처리하는 브라우저의
+  책임을 구분해야 합니다. 내부 상태 차이를 발견했다면 실제로 어떤
+  호출자가 도달할 수 있고 어떤 문제가 생기는지까지 확인해야 합니다.
+- 비동기 검사에서는 요청 수신 시점과 작업 실행 시점이 다를 수 있습니다.
+  새 요청을 막는 변경이 기존 작업의 완료까지 막지 않는지 살펴야 합니다.
+- 상태 플래그를 추가하는 비용에는 모든 호출 경로의 검증과 예외 처리도
+  포함됩니다. 이번에는 quota 검사, abort, 커밋 실패, 인덱스 생성이
+  연결되면서 최초 의도보다 변경 범위가 커졌습니다.
+- 테스트 수와 CQ 통과만으로 변경의 필요성을 증명할 수는 없습니다.
+  내부 구현에 강하게 결합한 테스트를 늘리기 전에 보호할 동작과
+  실제 실패 사례를 먼저 명확히 해야 합니다.
+- 리뷰를 통해 변경의 효과가 비용을 정당화하지 못한다고 판단했다면
+  CL을 중단하는 것도 타당한 결론입니다. 남은 의문은 입증된 사실과
+  구분해 기록하고, 더 좁은 조사 과제로 남길 수 있습니다.
+
+## 참고 자료
+
+- [Chromium Gerrit CL 8319589](https://chromium-review.googlesource.com/c/chromium/src/+/8319589)
+- [최종 Patch Set 6](https://chromium-review.googlesource.com/c/chromium/src/+/8319589/6)
+- [Chromium Issue 40791538](https://issues.chromium.org/issues/40791538)
+- [IndexedDB 명세 — IDBTransaction.commit()](https://w3c.github.io/IndexedDB/#dom-idbtransaction-commit)
+- [변경 전 브라우저 측 Transaction::Commit()](https://chromium.googlesource.com/chromium/src/+/4d6312b398a5ca37522f6b34bfb084c695f59934/content/browser/indexed_db/instance/transaction.cc#741)
+- [변경 전 Blink 측 IDBTransaction::commit()](https://chromium.googlesource.com/chromium/src/+/4d6312b398a5ca37522f6b34bfb084c695f59934/third_party/blink/renderer/modules/indexeddb/idb_transaction.cc#359)
+- [기존 explicit commit WPT](https://chromium.googlesource.com/chromium/src/+/4d6312b398a5ca37522f6b34bfb084c695f59934/third_party/blink/web_tests/external/wpt/IndexedDB/idb-explicit-commit.any.js)
+20:T32b2,
 POSIX 환경의 Chromium에서 File System Access API의
 `showSaveFilePicker()`로 새 로컬 파일을 만들 때 고정된 `0600` 권한 대신
 프로세스의 umask를 반영하도록 개선했습니다. 기존 파일의 권한은 그대로
@@ -549,7 +990,7 @@ sequenced file task runner에서 처리됩니다. 다만 저장 지연에 대한
 - [Chromium에 병합된 최종 커밋](https://chromium.googlesource.com/chromium/src/+/82ae2deac4cfe69f70538c876eddc62711ca01a3)
 - [Chromium Issue 527515380](https://issues.chromium.org/issues/527515380)
 - [File System Access API — showSaveFilePicker()](https://wicg.github.io/file-system-access/#api-showsavefilepicker)
-1d:T3d2a,
+21:T3d2a,
 Chromium Blink의 `FormData`가 `Blob`과 이름이 변경된 `File`을 조회할 때마다
 새로운 `File` 객체를 만들던 동작을 수정했습니다. 값을 entry에 추가하는
 시점에 한 번만 `File`로 정규화하여 `get()`, `getAll()`, iterator가 동일한
@@ -904,7 +1345,7 @@ full CQ가 Patch Set 4를 검증한 뒤 최종 제출 과정에서 Patch Set 5�
 - [HTML Standard — create an entry](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#create-an-entry)
 - [XMLHttpRequest Standard — FormData](https://xhr.spec.whatwg.org/#interface-formdata)
 - [WPT export PR #62284](https://github.com/web-platform-tests/wpt/pull/62284)
-1e:T2fdf,
+22:T2fdf,
 Linux의 POSIX/C locale에서 OPFS의 비 ASCII 디렉터리 이름이 손실되어 자식 핸들이 부모 디렉터리를 가리키거나, 디렉터리 열거 결과의 이름이 비어 버리던 문제를 수정했습니다. 자식 URL 생성부터 디렉터리 열거까지 OPFS 이름이 보존되도록 개선했습니다.
 
 ## 문제 설명
@@ -1087,7 +1528,7 @@ CL 8262447은 2026-08-26 Chromium main에 병합됐습니다.
 - [GetEntries() 통합형 회귀 테스트](https://source.chromium.org/chromium/chromium/src/+/main:content/browser/file_system_access/file_system_access_directory_handle_impl_unittest.cc;l=998-1045;drc=ca80cf53038f6e8d3141257071d478b2d5ffca34)
 - [Chromium LUCI CQ full run](https://luci-change-verifier.appspot.com/ui/run/chromium/8835249972854-1-53218a8342b325c9)
 - [MDN: Origin private file system](https://developer.mozilla.org/en-US/docs/Web/API/File_System_API/Origin_private_file_system)
-1f:T14cf,
+23:T14cf,
 Grouped History side panel에서 URL 길이와 관계없이 전체 주소를 확인할 수 있도록 native tooltip 동작을 개선했습니다.
 
 ## 문제 설명
@@ -1198,7 +1639,7 @@ CrComponentsHistoryClustersTest.UrlVisit: 1/1 PASS
 - [Chromium Issue 433924477](https://issues.chromium.org/issues/433924477)
 - [Gerrit CL 8257111](https://crrev.com/c/8257111)
 - [History Date view의 native title binding](https://source.chromium.org/chromium/chromium/src/+/main:chrome/browser/resources/history/history_item.html.ts;l=45-60;drc=7be74ed6b0c5efb51147c5a6525b3ce80283e78f)
-20:T1793,
+24:T1793,
 Chromium의 `components/server_certificate_database`에서 deprecated된 `crypto/sha2.h` 의존성을 제거하고 새로운 `crypto/hash.h` API로 마이그레이션한 작업입니다.
 
 ## 문제 설명
@@ -1341,7 +1782,7 @@ git diff --check
 - [crypto/hash.h](https://source.chromium.org/chromium/chromium/src/+/main:crypto/hash.h)
 - [server_certificate_database.cc](https://source.chromium.org/chromium/chromium/src/+/main:components/server_certificate_database/server_certificate_database.cc)
 - [server_certificate_database_nss_migrator.cc](https://source.chromium.org/chromium/chromium/src/+/main:components/server_certificate_database/server_certificate_database_nss_migrator.cc)
-21:T1c31,
+25:T1c31,
 특정 `StorageKey`의 사이트 데이터를 삭제할 때 남아 있던 Session Storage를 선택적으로 삭제하도록 Chromium의 DOM Storage 정리 로직을 수정했습니다.
 
 ## 문제 설명
@@ -1484,7 +1925,7 @@ git cl presubmit
 - [StorageKey matcher 생성 로직](https://source.chromium.org/chromium/chromium/src/+/main:content/browser/storage_partition_impl.cc;l=744-817;drc=7be74ed6b0c5efb51147c5a6525b3ce80283e78f)
 - [StorageKey 동등성 비교](https://source.chromium.org/chromium/chromium/src/+/main:third_party/blink/public/common/storage_key/storage_key.h;l=308-312;drc=7be74ed6b0c5efb51147c5a6525b3ce80283e78f)
 - [SessionStorageControl 인터페이스](https://source.chromium.org/chromium/chromium/src/+/main:components/services/storage/public/mojom/session_storage_control.mojom;l=57-62;drc=7be74ed6b0c5efb51147c5a6525b3ce80283e78f)
-22:T1562,
+26:T1562,
 실제 I/O 실패를 성공으로 오인해 웹 애플리케이션이 데이터가 저장됐다고 잘못 판단할 수 있었던 오류 전파 버그를
 Chromium/Blink upstream에서 수정하고, 실제 운영체제 오류를 재현하는 Blink 회귀 테스트를 추가했습니다.
 
@@ -1599,7 +2040,7 @@ export하여 문제를 해결했습니다.
 - [FileSystemAccessRegularFileDelegate 구현](https://source.chromium.org/chromium/chromium/src/+/main:third_party/blink/renderer/modules/file_system_access/file_system_access_regular_file_delegate.cc)
 - [FileSystemSyncAccessHandle 구현](https://source.chromium.org/chromium/chromium/src/+/main:third_party/blink/renderer/modules/file_system_access/file_system_sync_access_handle.cc)
 - [File System Standard: FileSystemSyncAccessHandle](https://fs.spec.whatwg.org/#api-filesystemsyncaccesshandle)
-23:Tee5,
+27:Tee5,
 Chromium의 Mojo 스타일 가이드에서 잘못 연결되던 `BigBuffer` 문서 링크를 저장소 루트 기준의 경로로 수정했습니다.
 
 ## 문제 설명
@@ -1713,9 +2154,9 @@ python3 tools/checkperms/checkperms.py
 * [Bug link](https://crbug.com/538651940)
 
 * [CL link](https://crrev.com/c/8146339)
-10:["$","div",null,{"className":"mx-auto max-w-7xl p-4","children":[["$","header",null,{"className":"flex flex-col sm:flex-row items-center gap-4 mb-8","children":[["$","a",null,{"href":"https://github.com/zbnerd","target":"_blank","rel":"noopener noreferrer","children":["$","$L3",null,{"src":"https://github.com/zbnerd.png?size=192","alt":"zbnerd 프로필 이미지","width":96,"height":96,"className":"rounded-full"}]}],["$","div",null,{"className":"text-center sm:text-left","children":[["$","h1",null,{"className":"font-display text-3xl font-semibold tracking-tight text-on-surface","children":"zbnerd"}],["$","a",null,{"href":"https://github.com/zbnerd","target":"_blank","rel":"noopener noreferrer","className":"text-link hover:underline","children":["github.com/","zbnerd"]}]]}]]}],["$","$L1a",null,{"contributions":[{"slug":"8300812","title":"FileReader: Suppress stale loadend after reentrant read","date":"$D2026-09-02T00:00:00.000Z","author":"zbnerd","contributionUrl":"https://crrev.com/c/8300812","labels":["blink","file_reader","wpt"],"status":"merged","excerpt":"Blink의 `FileReader`가 `abort`, `load`, `error` 이벤트 핸들러에서 같은\n객체로 새 읽기를 시작했을 때 이전 읽기의 `loadend`를 잘못 발생시키던 문제를\n수정했습니다. terminal event를 dispatch한 뒤 `FileReader`가 다시","content":"$1b"},{"slug":"8261422","title":"FSA: Honor umask for saved files","date":"$D2026-08-28T00:00:00.000Z","author":"zbnerd","contributionUrl":"https://crrev.com/c/8261422","labels":["content","file_system_access"],"status":"merged","excerpt":"POSIX 환경의 Chromium에서 File System Access API의\n`showSaveFilePicker()`로 새 로컬 파일을 만들 때 고정된 `0600` 권한 대신\n프로세스의 umask를 반영하도록 개선했습니다. 기존 파일의 권한은 그대로\n유지하고, 심볼릭 링크나 FIF","content":"$1c"},{"slug":"8276954","title":"[Blink] Preserve FormData File identity","date":"$D2026-08-28T00:00:00.000Z","author":"zbnerd","contributionUrl":"https://crrev.com/c/8276954","labels":["blink","form_data","wpt"],"status":"merged","excerpt":"Chromium Blink의 `FormData`가 `Blob`과 이름이 변경된 `File`을 조회할 때마다\n새로운 `File` 객체를 만들던 동작을 수정했습니다. 값을 entry에 추가하는\n시점에 한 번만 `File`로 정규화하여 `get()`, `getAll()`, iterator가","content":"$1d"},{"slug":"8262447","title":"[Storage] Preserve OPFS UTF-8 child names","date":"$D2026-08-26T00:00:00.000Z","author":"zbnerd","contributionUrl":"https://crrev.com/c/8262447","labels":["file-system-access","opfs"],"status":"merged","excerpt":"Linux의 POSIX/C locale에서 OPFS의 비 ASCII 디렉터리 이름이 손실되어 자식 핸들이 부모 디렉터리를 가리키거나, 디렉터리 열거 결과의 이름이 비어 버리던 문제를 수정했습니다. 자식 URL 생성부터 디렉터리 열거까지 OPFS 이름이 보존되도록 개선했습니다.","content":"$1e"},{"slug":"8257111","title":"[History] Show URL tooltips in side panel","date":"$D2026-08-21T00:00:00.000Z","author":"zbnerd","contributionUrl":"https://crrev.com/c/8257111","labels":["history-clusters","webui"],"status":"merged","excerpt":"Grouped History side panel에서 URL 길이와 관계없이 전체 주소를 확인할 수 있도록 native tooltip 동작을 개선했습니다.","content":"$1f"},{"slug":"8243548","title":"server_certificate_database: migrate to crypto/hash APIs","date":"$D2026-08-18T00:00:00.000Z","author":"zbnerd","contributionUrl":"https://crrev.com/c/8243548","labels":["server_certificate_database","crypto"],"status":"merged","excerpt":"Chromium의 `components/server_certificate_database`에서 deprecated된 `crypto/sha2.h` 의존성을 제거하고 새로운 `crypto/hash.h` API로 마이그레이션한 작업입니다.","content":"$20"},{"slug":"8264749","title":"[Storage] Clear session storage by StorageKey","date":"$D2026-08-18T00:00:00.000Z","author":"zbnerd","contributionUrl":"https://crrev.com/c/8264749","labels":["content","dom-storage"],"status":"merged","excerpt":"특정 `StorageKey`의 사이트 데이터를 삭제할 때 남아 있던 Session Storage를 선택적으로 삭제하도록 Chromium의 DOM Storage 정리 로직을 수정했습니다.","content":"$21"},{"slug":"8221052","title":"File System Access: Propagate regular file write errors","date":"$D2026-08-14T00:00:00.000Z","author":"zbnerd","contributionUrl":"https://crrev.com/c/8221052","labels":["file-system-access","opfs"],"status":"merged","excerpt":"실제 I/O 실패를 성공으로 오인해 웹 애플리케이션이 데이터가 저장됐다고 잘못 판단할 수 있었던 오류 전파 버그를\nChromium/Blink upstream에서 수정하고, 실제 운영체제 오류를 재현하는 Blink 회귀 테스트를 추가했습니다.","content":"$22"},{"slug":"8146339","title":"Fix BigBuffer link in Mojo style guide","date":"$D2026-07-28T00:00:00.000Z","author":"zbnerd","contributionUrl":"https://crrev.com/c/8146339","labels":["docs","mojo"],"status":"merged","excerpt":"Chromium의 Mojo 스타일 가이드에서 잘못 연결되던 `BigBuffer` 문서 링크를 저장소 루트 기준의 경로로 수정했습니다.","content":"$23"}]}]]}]
+10:["$","div",null,{"className":"mx-auto max-w-7xl p-4","children":[["$","header",null,{"className":"flex flex-col sm:flex-row items-center gap-4 mb-8","children":[["$","a",null,{"href":"https://github.com/zbnerd","target":"_blank","rel":"noopener noreferrer","children":["$","$L3",null,{"src":"https://github.com/zbnerd.png?size=192","alt":"zbnerd 프로필 이미지","width":96,"height":96,"className":"rounded-full"}]}],["$","div",null,{"className":"text-center sm:text-left","children":[["$","h1",null,{"className":"font-display text-3xl font-semibold tracking-tight text-on-surface","children":"zbnerd"}],["$","a",null,{"href":"https://github.com/zbnerd","target":"_blank","rel":"noopener noreferrer","className":"text-link hover:underline","children":["github.com/","zbnerd"]}]]}]]}],["$","$L1a",null,{"contributions":[{"slug":"8362029","title":"Remove unused SecureHash include from FileSystemAccessManagerImpl","date":"$D2026-09-05T00:00:00.000Z","author":"zbnerd","contributionUrl":"https://crrev.com/c/8362029","labels":["content","file_system_access","cleanup"],"status":"merged","excerpt":"Chromium의 File System Access 구현에서 사용하지 않는\n`crypto/secure_hash.h` include를 제거했습니다. 이 변경은 2026년 9월 9일\nChromium main에 병합되었습니다.","content":"$1b"},{"slug":"8362049","title":"FSA: Preserve save picker filesystem errors","date":"$D2026-09-05T00:00:00.000Z","author":"zbnerd","contributionUrl":"https://crrev.com/c/8362049","labels":["content","file_system_access","fix"],"status":"merged","excerpt":"`showSaveFilePicker()`에서 파일 생성이나 truncate가 실패했을 때 원래 파일 시스템 오류를 보존하도록 수정했습니다. 웹사이트가 쓰기 권한 부족이나 부모 디렉터리 부재를 사용자 취소와 구분할 수 있도록 개선했습니다.","content":"$1c"},{"slug":"8300812","title":"FileReader: Suppress stale loadend after reentrant read","date":"$D2026-09-02T00:00:00.000Z","author":"zbnerd","contributionUrl":"https://crrev.com/c/8300812","labels":["blink","file_reader","wpt"],"status":"merged","excerpt":"Blink의 `FileReader`가 `abort`, `load`, `error` 이벤트 핸들러에서 같은\n객체로 새 읽기를 시작했을 때 이전 읽기의 `loadend`를 잘못 발생시키던 문제를\n수정했습니다. terminal event를 dispatch한 뒤 `FileReader`가 다시","content":"$1d"},{"slug":"8338807","title":"IndexedDB: Cache record versions per transaction","date":"$D2026-09-02T00:00:00.000Z","author":"zbnerd","contributionUrl":"https://crrev.com/c/8338807","labels":["content","indexeddb","leveldb","performance"],"status":"abandoned","excerpt":"IndexedDB의 LevelDB 백엔드에서 레코드 버전을 트랜잭션별로 캐시해,\n연속 쓰기 중 메타데이터 조회가 유발하는 flush를 줄이는 변경을 제안했습니다.\n리뷰에서 해당 백엔드가 deprecated 상태여서 비핵심 개선을 받지 않는다는\n방침을 확인했고, 이를 수용해 2026년","content":"$1e"},{"slug":"8319589","title":"IndexedDB: Reject requests after transaction commit","date":"$D2026-08-31T00:00:00.000Z","author":"zbnerd","contributionUrl":"https://crrev.com/c/8319589","labels":["content","indexeddb","mojo"],"status":"abandoned","excerpt":"IndexedDB 트랜잭션의 커밋 요청 이후 들어오는 IPC를 거부하고, 브라우저가\n트랜잭션을 중단한 경우와 구분하는 변경을 제안했습니다. CQ dry run은\n통과했지만, 입증된 효과에 비해 복잡성과 유지보수 비용이 크다는 리뷰를\n수용해 2026년 9월 2일 CL을 중단(`aband","content":"$1f"},{"slug":"8261422","title":"FSA: Honor umask for saved files","date":"$D2026-08-28T00:00:00.000Z","author":"zbnerd","contributionUrl":"https://crrev.com/c/8261422","labels":["content","file_system_access"],"status":"merged","excerpt":"POSIX 환경의 Chromium에서 File System Access API의\n`showSaveFilePicker()`로 새 로컬 파일을 만들 때 고정된 `0600` 권한 대신\n프로세스의 umask를 반영하도록 개선했습니다. 기존 파일의 권한은 그대로\n유지하고, 심볼릭 링크나 FIF","content":"$20"},{"slug":"8276954","title":"[Blink] Preserve FormData File identity","date":"$D2026-08-28T00:00:00.000Z","author":"zbnerd","contributionUrl":"https://crrev.com/c/8276954","labels":["blink","form_data","wpt"],"status":"merged","excerpt":"Chromium Blink의 `FormData`가 `Blob`과 이름이 변경된 `File`을 조회할 때마다\n새로운 `File` 객체를 만들던 동작을 수정했습니다. 값을 entry에 추가하는\n시점에 한 번만 `File`로 정규화하여 `get()`, `getAll()`, iterator가","content":"$21"},{"slug":"8262447","title":"[Storage] Preserve OPFS UTF-8 child names","date":"$D2026-08-26T00:00:00.000Z","author":"zbnerd","contributionUrl":"https://crrev.com/c/8262447","labels":["file-system-access","opfs"],"status":"merged","excerpt":"Linux의 POSIX/C locale에서 OPFS의 비 ASCII 디렉터리 이름이 손실되어 자식 핸들이 부모 디렉터리를 가리키거나, 디렉터리 열거 결과의 이름이 비어 버리던 문제를 수정했습니다. 자식 URL 생성부터 디렉터리 열거까지 OPFS 이름이 보존되도록 개선했습니다.","content":"$22"},{"slug":"8257111","title":"[History] Show URL tooltips in side panel","date":"$D2026-08-21T00:00:00.000Z","author":"zbnerd","contributionUrl":"https://crrev.com/c/8257111","labels":["history-clusters","webui"],"status":"merged","excerpt":"Grouped History side panel에서 URL 길이와 관계없이 전체 주소를 확인할 수 있도록 native tooltip 동작을 개선했습니다.","content":"$23"},{"slug":"8243548","title":"server_certificate_database: migrate to crypto/hash APIs","date":"$D2026-08-18T00:00:00.000Z","author":"zbnerd","contributionUrl":"https://crrev.com/c/8243548","labels":["server_certificate_database","crypto"],"status":"merged","excerpt":"Chromium의 `components/server_certificate_database`에서 deprecated된 `crypto/sha2.h` 의존성을 제거하고 새로운 `crypto/hash.h` API로 마이그레이션한 작업입니다.","content":"$24"},{"slug":"8264749","title":"[Storage] Clear session storage by StorageKey","date":"$D2026-08-18T00:00:00.000Z","author":"zbnerd","contributionUrl":"https://crrev.com/c/8264749","labels":["content","dom-storage"],"status":"merged","excerpt":"특정 `StorageKey`의 사이트 데이터를 삭제할 때 남아 있던 Session Storage를 선택적으로 삭제하도록 Chromium의 DOM Storage 정리 로직을 수정했습니다.","content":"$25"},{"slug":"8221052","title":"File System Access: Propagate regular file write errors","date":"$D2026-08-14T00:00:00.000Z","author":"zbnerd","contributionUrl":"https://crrev.com/c/8221052","labels":["file-system-access","opfs"],"status":"merged","excerpt":"실제 I/O 실패를 성공으로 오인해 웹 애플리케이션이 데이터가 저장됐다고 잘못 판단할 수 있었던 오류 전파 버그를\nChromium/Blink upstream에서 수정하고, 실제 운영체제 오류를 재현하는 Blink 회귀 테스트를 추가했습니다.","content":"$26"},{"slug":"8146339","title":"Fix BigBuffer link in Mojo style guide","date":"$D2026-07-28T00:00:00.000Z","author":"zbnerd","contributionUrl":"https://crrev.com/c/8146339","labels":["docs","mojo"],"status":"merged","excerpt":"Chromium의 Mojo 스타일 가이드에서 잘못 연결되던 `BigBuffer` 문서 링크를 저장소 루트 기준의 경로로 수정했습니다.","content":"$27"}]}]]}]
 16:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 12:null
-24:I[622,[],"IconMark"]
-14:{"metadata":[["$","title","0",{"children":"zbnerd | OSSCA Chromium"}],["$","meta","1",{"name":"description","content":"zbnerd님의 컨트리뷰션 목록입니다."}],["$","meta","2",{"name":"google-site-verification","content":"6lATKwyH4W3FqgJMSzFuiaY0zgSyYNmgpPqSTgB2PmE"}],["$","link","3",{"rel":"icon","href":"/contributions/icon.png?7799f1a0e0aceb83","type":"image/png","sizes":"256x256"}],["$","$L24","4",{}]],"error":null,"digest":"$undefined"}
+28:I[622,[],"IconMark"]
+14:{"metadata":[["$","title","0",{"children":"zbnerd | OSSCA Chromium"}],["$","meta","1",{"name":"description","content":"zbnerd님의 컨트리뷰션 목록입니다."}],["$","meta","2",{"name":"google-site-verification","content":"6lATKwyH4W3FqgJMSzFuiaY0zgSyYNmgpPqSTgB2PmE"}],["$","link","3",{"rel":"icon","href":"/contributions/icon.png?7799f1a0e0aceb83","type":"image/png","sizes":"256x256"}],["$","$L28","4",{}]],"error":null,"digest":"$undefined"}
 19:"$14:metadata"
