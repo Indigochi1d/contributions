@@ -8,7 +8,13 @@ const items: SearchIndexItem[] = [
     title: '2025 patch',
     date: '2025-05-08',
     author: 'octocat',
+    module: 'docs',
+    kind: 'fix',
+    keywords: ['docs'],
     labels: ['docs'],
+    issue: 31,
+    relatedSlugs: ['2'],
+    related: [],
     status: 'merged',
     excerpt: 'a',
   },
@@ -17,7 +23,13 @@ const items: SearchIndexItem[] = [
     title: '2026 patch',
     date: '2026-02-01',
     author: 'hubot',
+    module: 'test',
+    kind: 'test',
+    keywords: ['test'],
     labels: ['test'],
+    issue: 31,
+    relatedSlugs: ['1'],
+    related: [],
     status: 'in review',
     excerpt: 'b',
   },
@@ -28,6 +40,7 @@ test('연도 선택을 바꾸면 목록 결과가 그에 맞게 바뀐다', () =
 
   // 연도 선택기 그룹으로 한정(상태 필터에도 '전체' 버튼이 있어 충돌 방지)
   const yearGroup = screen.getByRole('group', { name: '연도 선택' });
+  expect(within(yearGroup).getByRole('button', { name: '2026' })).toHaveAttribute('aria-pressed', 'true');
 
   // 초기 2026(데이터에 있어 기본값): 2026 항목만
   expect(screen.getByText('2026 patch')).toBeInTheDocument();
@@ -40,6 +53,6 @@ test('연도 선택을 바꾸면 목록 결과가 그에 맞게 바뀐다', () =
 
   // 전체 선택: 둘 다
   fireEvent.click(within(yearGroup).getByRole('button', { name: '전체' }));
-  expect(screen.getByText('2025 patch')).toBeInTheDocument();
-  expect(screen.getByText('2026 patch')).toBeInTheDocument();
+  expect(screen.getByText('2025 patch')).toBeVisible();
+  expect(screen.getByText('2026 patch')).toBeVisible();
 });
