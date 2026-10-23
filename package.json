@@ -12,6 +12,7 @@
     "test:watch": "jest --watch",
     "test:coverage": "jest --coverage",
     "validate:data": "node scripts/validate-contributions.js",
+    "sync:contributions": "node scripts/sync-contributions.js",
     "lint:md": "markdownlint-cli2",
     "lint:md:fix": "markdownlint-cli2 --fix"
   },
@@ -22,6 +23,7 @@
     "gray-matter": "^4.0.3",
     "highlight.js": "^11.11.1",
     "marked": "^15.0.11",
+    "mermaid": "11.17.2",
     "next": "^15.5.21",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
